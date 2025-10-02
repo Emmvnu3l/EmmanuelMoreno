@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Emmanuel Moreno</h1>
+<h1 align="center">Hola 👋, soy Emmanuel Alejandro Moreno Chavero</h1>
 <h3 align="center">Ingeniería en Informática en Duoc UC | Región Metropolitana, Chile</h3>
 
 <p align="center">
