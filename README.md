@@ -36,7 +36,7 @@
 
 ### Proyectos destacados
 
-- [Perfulandia](): Proyecto desarrollado en java + springboot con css básicos + boostrap. Proyecto desarrollado el 3er semestre el cual 
+- [Perfulandia](https://github.com/Emmvnu3l/Per): Proyecto desarrollado en java + springboot con css básicos + boostrap. Proyecto desarrollado el 3er semestre el cual 
 - [IceBox Spa]():  Proyecto desarrollado en java con springboot + react . Proyecto desarrollado el 4to semestre basado en un eccomerce sobre una tienda de congelados. 
 - [DashGame]():  Proyecto desarrollado en Python con librería en Pygame. Proyecto desarrollado de manera autonoma explorando librería Pygame.
 ---
