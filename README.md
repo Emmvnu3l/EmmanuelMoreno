@@ -36,12 +36,12 @@
 
 ### Proyectos destacados
 
-- [Nombre del Proyecto 1](URL): Descripción breve, tecnologías usadas.
-- [Nombre del Proyecto 2](URL): Descripción breve, tecnologías usadas.
-
+- [Perfulandia](): Proyecto desarrollado en java + springboot con css básicos + boostrap. Proyecto desarrollado el 3er semestre el cual 
+- [IceBox Spa]():  Proyecto desarrollado en java con springboot + react . Proyecto desarrollado el 4to semestre basado en un eccomerce sobre una tienda de congelados. 
+- [DashGame]():  Proyecto desarrollado en Python con librería en Pygame. Proyecto desarrollado de manera autonoma explorando librería Pygame.
 ---
 
 ### Contacto
 
-- 📧 emmanuel.moreno@email.com
-- [LinkedIn](https://www.linkedin.com/in/TU-LINKEDIN)
+- 📧 emm.moreno@duocuc.cl
+- [LinkedIn](https://www.linkedin.com/in/3mmvnu3l/)
