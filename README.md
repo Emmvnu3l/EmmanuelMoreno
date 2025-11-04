@@ -41,7 +41,8 @@
 - [DashGame]():  Proyecto desarrollado en Python con librería en Pygame. Proyecto desarrollado de manera autonoma explorando librería Pygame.
 ---
 
-### Contacto
+### Si te interesa mi trabajo, contactame!
 
 - 📧 emm.moreno@duocuc.cl
 - [LinkedIn](https://www.linkedin.com/in/3mmvnu3l/)
+- +569 75817332
