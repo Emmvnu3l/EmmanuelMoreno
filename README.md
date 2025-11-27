@@ -36,31 +36,32 @@ Soy estudiante de Ingeniería en Informática en Duoc UC, apasionado por el desa
 ## Proyectos destacados
 
 ### Perfulandia (public) 1er Año de Ing. Informatica - Fullstack l
-<img src="https://github.com/Emmvnu3l/Per/raw/main/assets/perfulandia.png" alt="Perfulandia" width="400" />
-**Descripción:** Sistema de gestión para perfumería, desarrollado en Java y Spring Boot, con interfaz básica en CSS y Bootstrap. Proyecto académico del 3er semestre.
+<img width="1348" height="633" alt="image" src="https://github.com/user-attachments/assets/dc7f98c1-ab3a-48f0-9199-841732a1c96c" />
+Sistema de gestión para perfumería, desarrollado en Java y Spring Boot, con interfaz básica en CSS y Bootstrap. Proyecto académico del 3er semestre.
 
 [![Ver proyecto](https://img.shields.io/badge/Ver%20proyecto-1a73e8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmvnu3l/Per)
 
 ---
 
 ### IceBox Spa (private) 2do Año de Ing. Informatica - Fullstack ll
-<img src="https://github.com/Emmvnu3l/IceBoxSpa/raw/main/assets/icebox.png" alt="IceBox Spa" width="400" />
-**Descripción:** E-commerce para tienda de congelados, desarrollado en Java (Spring Boot) y React, con diseño responsivo en Bootstrap y CSS. Proyecto académico del 4to semestre.
+<img width="1365" height="640" alt="image" src="https://github.com/user-attachments/assets/ce97db1d-f803-4962-93eb-e5241da50cfe" />
+E-commerce para tienda de congelados, desarrollado en Java (Spring Boot) y React, con diseño responsivo en Bootstrap y CSS. Proyecto académico del 4to semestre.
 
 [![Ver proyecto](https://img.shields.io/badge/Ver%20proyecto-1a73e8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmvnu3l/Fullstackll)
 
 ---
 
 ### DashGame (Public) 2do Año de Ing. Informatica - Autodidacta
-<img src="https://github.com/Emmvnu3l/DashGame/raw/main/assets/dashgame.png" alt="DashGame" width="400" />
-**Descripción:** Videojuego desarrollado en Python usando Pygame. Proyecto autónomo para explorar lógica de videojuegos y gráficos.
+<img width="806" height="436" alt="image" src="https://github.com/user-attachments/assets/1ae7bfed-8987-47fa-aa8f-e5d74ffff5d8" />
+Videojuego desarrollado en Python usando Pygame. Proyecto autónomo para explorar lógica de videojuegos y gráficos.
 
 [![Ver proyecto](https://img.shields.io/badge/Ver%20proyecto-1a73e8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmvnu3l/Game-dash-pygame)
 
 ---
 
 ### E-commerce Spring Boot + React (Private) 2do Año de Ing. Informatica - Fullstack ll
-<img src="https://github.com/Emmvnu3l/EcommerceSpringReact/raw/main/assets/ecommerce.png" alt="E-commerce" width="400" />
+<img width="1355" height="629" alt="image" src="https://github.com/user-attachments/assets/cee997ee-441c-465f-93a8-1fb1a68f6f26" />
+
 
 Plataforma e-commerce desarrollada con Spring Boot (backend) y React (frontend), utilizando CSS y Bootstrap. Permite gestión de productos, usuarios y compras.
 
@@ -69,7 +70,8 @@ Plataforma e-commerce desarrollada con Spring Boot (backend) y React (frontend),
 ---
 
 ### App Móvil Kotlin (Android Studio) (Public) 2do año de Ing. Informatica - Desarrollo Movil
-<img src="https://github.com/Emmvnu3l/MobileAppKotlin/raw/main/assets/mobileapp.png" alt="App Móvil Kotlin" width="400" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b6e8f962-0281-4863-ac15-240cde156aee" />
+
 
 Aplicación móvil nativa desarrollada en Android Studio con Kotlin. Incluye autenticación, consumo de API y diseño moderno. Proyecto enfocado en desarrollo móvil.
 
@@ -78,6 +80,7 @@ Aplicación móvil nativa desarrollada en Android Studio con Kotlin. Incluye aut
 ---
 
 ### Gotagris (Public)
+<img width="1365" height="637" alt="image" src="https://github.com/user-attachments/assets/92949977-7ba5-4dfc-bce7-afbd82aa14de" />
 
 [![Ver proyecto](https://img.shields.io/badge/Ver%20proyecto-1a73e8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmvnu3l/proyectoDariana)
 
