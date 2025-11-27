@@ -70,7 +70,7 @@ Plataforma e-commerce desarrollada con Spring Boot (backend) y React (frontend),
 ---
 
 ### App Móvil Kotlin (Android Studio) (Public) 2do año de Ing. Informatica - Desarrollo Movil
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b6e8f962-0281-4863-ac15-240cde156aee" />
+<img width="180" height="400" alt="image" src="https://github.com/user-attachments/assets/b6e8f962-0281-4863-ac15-240cde156aee" />
 
 
 Aplicación móvil nativa desarrollada en Android Studio con Kotlin. Incluye autenticación, consumo de API y diseño moderno. Proyecto enfocado en desarrollo móvil.
