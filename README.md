@@ -47,7 +47,7 @@ Soy estudiante de Ingeniería en Informática en Duoc UC, apasionado por el desa
 <img src="https://github.com/Emmvnu3l/IceBoxSpa/raw/main/assets/icebox.png" alt="IceBox Spa" width="400" />
 **Descripción:** E-commerce para tienda de congelados, desarrollado en Java (Spring Boot) y React, con diseño responsivo en Bootstrap y CSS. Proyecto académico del 4to semestre.
 
-[![Ver proyecto](https://img.shields.io/badge/Ver%20proyecto-1a73e8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmvnu3l/IceBoxSpa)
+[![Ver proyecto](https://img.shields.io/badge/Ver%20proyecto-1a73e8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmvnu3l/Fullstackll)
 
 ---
 
@@ -55,7 +55,7 @@ Soy estudiante de Ingeniería en Informática en Duoc UC, apasionado por el desa
 <img src="https://github.com/Emmvnu3l/DashGame/raw/main/assets/dashgame.png" alt="DashGame" width="400" />
 **Descripción:** Videojuego desarrollado en Python usando Pygame. Proyecto autónomo para explorar lógica de videojuegos y gráficos.
 
-[![Ver proyecto](https://img.shields.io/badge/Ver%20proyecto-1a73e8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmvnu3l/DashGame)
+[![Ver proyecto](https://img.shields.io/badge/Ver%20proyecto-1a73e8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmvnu3l/Game-dash-pygame)
 
 ---
 
@@ -73,7 +73,13 @@ Plataforma e-commerce desarrollada con Spring Boot (backend) y React (frontend),
 
 Aplicación móvil nativa desarrollada en Android Studio con Kotlin. Incluye autenticación, consumo de API y diseño moderno. Proyecto enfocado en desarrollo móvil.
 
-[![Ver proyecto](https://img.shields.io/badge/Ver%20proyecto-1a73e8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmvnu3l/MobileAppKotlin)
+[![Ver proyecto](https://img.shields.io/badge/Ver%20proyecto-1a73e8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmvnu3l/appXano-ultima)
+
+---
+
+### Gotagris (Public)
+
+[![Ver proyecto](https://img.shields.io/badge/Ver%20proyecto-1a73e8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmvnu3l/proyectoDariana)
 
 ---
 
