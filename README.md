@@ -59,6 +59,13 @@ Videojuego desarrollado en Python usando Pygame. Proyecto autónomo para explora
 
 ---
 
+### Explorando Bootstrap (Public) Autodidacta
+<img width="1357" height="533" alt="image" src="https://github.com/user-attachments/assets/8e97fdc3-d099-4338-8bb5-d821b4f26c6f" />
+<img width="1354" height="595" alt="image" src="https://github.com/user-attachments/assets/f2b525de-462e-479e-914f-c6a1d278153d" />
+Pagina demo desarollada en html5 + css y js. Proyecto autónomo que me dio las bases de grillado, responsividad y maqueteo de paginas web, gracias al framework Bootstrap.
+
+[![Ver proyecto](https://img.shields.io/badge/Ver%20proyecto-1a73e8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmvnu3l/First-PBootstrap)
+---
 ### E-commerce Spring Boot + React (Private) 2do Año de Ing. Informatica - Fullstack ll
 <img width="1355" height="629" alt="image" src="https://github.com/user-attachments/assets/cee997ee-441c-465f-93a8-1fb1a68f6f26" />
 
