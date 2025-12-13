@@ -35,12 +35,12 @@ Soy estudiante de Ingeniería en Informática en Duoc UC, apasionado por el desa
 
 ## Proyectos destacados
 ### E-commerce Spring Boot + React (Private) 2do Año de Ing. Informatica - Fullstack ll
-<img width="1355" height="629" alt="image" src="[https://github.com/user-attachments/assets/cee997ee-441c-465f-93a8-1fb1a68f6f26](https://github.com/Emmvnu3l/MicroService-Proyect)" />
+<img width="1355" height="629" alt="image" src="https://github.com/Emmvnu3l/MicroService-Proyect/raw/main/docs/screenshots/frontend-home.png" />
 
 
 Plataforma e-commerce desarrollada con Spring Boot (backend) y React (frontend), utilizando CSS y Bootstrap. Permite gestión de productos, usuarios y compras.
 
-[![Ver proyecto](https://img.shields.io/badge/Ver%20proyecto-1a73e8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmvnu3l/EcommerceSpringReact)
+[![Ver proyecto](https://img.shields.io/badge/Ver%20proyecto-1a73e8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmvnu3l/MicroService-Proyect)
 
 ---
 
